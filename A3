@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Isa-20/Tarea-INTELIGENCIA-ARTIFICIAL.-.git
+rama de git -M principal
+git push -u origen principal
